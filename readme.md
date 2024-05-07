@@ -1,4 +1,4 @@
-# README for Python Image Processing and Data Extraction Project
+# README for Valorant Postmatch Data Extraction
 
 ## Overview
 

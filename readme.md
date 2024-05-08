@@ -2,7 +2,7 @@
 
 ## Overview
 
-This tool extracts the post game information from a 1920x1080 screenshot of the post image screen. This tool handles processing images, extracting data, and performing validation. It utilizes several Python libraries including OpenCV, pandas, and TensorFlow, to process post match screenshots, extract relevant data, and validate the extracted information against expected outcomes. The project is structured to support multiple modes of operation, including handling single images, batches of images, and performing screenshot operations.
+This tool extracts the post game information from a 1920x1080 screenshot of the post game screen. This tool handles processing images, extracting data, and performing validation. It utilizes several Python libraries including OpenCV, pandas, and TensorFlow, to process post match screenshots, extract relevant data, and validate the extracted information against expected outcomes. The project is structured to support multiple modes of operation, including handling single images, batches of images, and performing screenshot operations.
 
 ## Installation
 
